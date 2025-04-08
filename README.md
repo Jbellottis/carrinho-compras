@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Jbellottis/carrinho-compras/blob/main/assets/Captura%20de%20tela%202025-04-08%20191137.png)
 
-## Hospedagem do projeto no [Vercel](https://alugames-swart.vercel.app/).
+## Hospedagem do projeto no [Vercel](https://carrinho-compras-six-omega.vercel.app/).
 
 ## Ferramentas utilizadas:
 
